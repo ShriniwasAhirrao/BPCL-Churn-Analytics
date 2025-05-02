@@ -33,5 +33,5 @@ A machine learning project focused on analyzing customer churn for a family-owne
 
 ## 🚧 Status
 
-📍 Ongoing – Final evaluation and deployment planning underway.
+📍 Ongoing 
 
