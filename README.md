@@ -31,23 +31,7 @@ A machine learning project focused on analyzing customer churn for a family-owne
 
 ---
 
-## 🧰 Tech Stack
-
-- **Python** – Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-- **Jupyter Notebook** – For data exploration and modeling
-
----
-
 ## 🚧 Status
 
 📍 Ongoing – Final evaluation and deployment planning underway.
-
----
-
-## 👨‍💻 Author
-
-**Shriniwas Ahirrao**  
-[GitHub](https://github.com/ShriniwasAhirrao) | [LinkedIn](https://linkedin.com/in/shriniwasahirrao)
-
----
 
